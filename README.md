@@ -4,7 +4,7 @@ About Me website
 <br>
 have template.html page
 <br>
-Use semantic tags - <header>, <footer>, <nav>
+Use semantic tags: header, footer, nav
 <br>
 create at least 3 pages plus Home (index.html)
 <br>
